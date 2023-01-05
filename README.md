@@ -6,4 +6,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Macumo-soft)](https://github-profile-trophy.vercel.app/?username=Macumo-soft)
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/Macumo-soft?theme=wtf&font=source_code_pro&extension=null)](https://leetcode.card.workers.dev/Macumo-soft?theme=wtf&font=source_code_pro&extension=null)
+[![LeetCode Stats](https://leetcode.card.workers.dev/Macumo?theme=wtf&font=source_code_pro&extension=null)](https://leetcode.card.workers.dev/Macumo-soft?theme=wtf&font=source_code_pro&extension=null)
